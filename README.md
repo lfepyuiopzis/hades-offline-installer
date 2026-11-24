@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion, Transistor, and Pyre.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | 10.13.6+ |
+| **Processor** | Min: Dual Core 2.4 GHz / Rec: Dual Core 3.0 GHz+ | Dual Core 2.4GHz |
+| **Memory** | Min: 4 GB RAM / Rec: 8 GB RAM | 4 GB RAM |
+| **Graphics** | Min: 1GB VRAM / DirectX 10+ support / Rec: 2GB VRAM / DirectX 10+ support | Intel HD 5000 (must support Metal API) |
+| **Storage** | Min: 15 GB available space / Rec: 20 GB available space | 15 GB GB available space |
+| **OS *** | Windows 7 SP1 | Windows 7 SP1 |
+| **Additional Notes** | — | MacBook Air, MacBook Pro, iMac, Mac Mini late 2012 and … |
 
 ---
 
